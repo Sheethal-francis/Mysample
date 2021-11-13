@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 mango
 tell
 water
 changes in local repo
 remo
+=======
+repository edited
+s
+sf
+sf
+sff
+>>>>>>> eda37a303a2675a2d4d0c1cf6729ebf2b6e1ffb9
